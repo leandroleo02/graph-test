@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class GraphTest {
+public class Main {
 
 	public static void main(String[] args) {
 
